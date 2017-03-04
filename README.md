@@ -1,17 +1,17 @@
 # WebAppAssignments
 
-COMPLETELY REGISTERED STUDENTS TABLES 
+1. COMPLETELY REGISTERED STUDENTS TABLES 
 
 ![alt](Screenshots/front.JPG)
 
-STUDENTS DATABASE
+2. STUDENTS DATABASE
 
 ![alt](Screenshots/db.JPG)
 
-FILLING UP A FORM
+3. FILLING UP A FORM
 
 ![alt](Screenshots/registration.JPG)
 
-EDITING THE A FORM
+4. EDITING THE A FORM
 
 ![alt](Screenshots/edit.JPG)

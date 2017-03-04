@@ -8,10 +8,10 @@
 
 ![alt](Screenshots/db.JPG)
 
-3.) FILLING UP A FORM
+3.) FILLING OR CREATING UP A REGISTRATION FORM
 
 ![alt](Screenshots/registration.JPG)
 
-4.) EDITING THE A FORM
+4.) EDITING OR UPDATING THE FORM
 
 ![alt](Screenshots/edit.JPG)

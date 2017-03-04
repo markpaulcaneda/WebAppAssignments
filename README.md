@@ -2,8 +2,8 @@
 COMPLETELY REGISTERED STUDENTS TABLES 
 ![alt](Screenshots/front.JPG)
 STUDENTS DATABASE
-![alt](Screenshot/db.JPG)
+![alt](Screenshots/db.JPG)
 FILLING UP A FORM
-![alt](Screenshot/registration.JPG)
+![alt](Screenshots/registration.JPG)
 EDITING THE A FORM
-![alt](Screenshot/edit.JPG)
+![alt](Screenshots/edit.JPG)
